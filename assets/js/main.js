@@ -22,7 +22,7 @@ const CANDIDATES = [
   { order:  8, name: "ESPOSITO ARMANDO", cv: "assets/docs/cv-azzurra-08.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
   { order:  9, name: "FERRARO MASSIMO", cv: "assets/docs/cv-azzurra-09.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
   { order: 10, name: "GENTILE ROSANNA", cv: "assets/docs/cv-azzurra-10.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
-  { order: 11, name: "LO VERDE GIOVANNA", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
+  { order: 11, name: "LO VERDE GIOVANNA", cv: "assets/docs/cv-azzurra-11.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
   { order: 12, name: "MICALIZIO BARBARA", cv: "assets/docs/cv-azzurra-12.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
   { order: 13, name: "PAGANO PAOLO FABIO", cv: "assets/docs/cv-azzurra-13.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
   { order: 14, name: "RISUGLIA AZZURRA", cv: "assets/docs/cv-azzurra-14.pdf", casellario: "assets/docs/casellario-azzurra-combinato.pdf" },
